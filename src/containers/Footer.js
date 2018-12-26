@@ -5,7 +5,7 @@ class Footer extends Component {
     render() {
         return (
             <div>
-                CopyRight: Healthcare-at-home - Ngo Minh Hien
+                CopyRight: TLC - Tuong Laptop Camera
             </div>
         );
     }
