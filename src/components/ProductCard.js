@@ -84,6 +84,7 @@ class ProductCard extends React.Component {
                     maxWidth='lg'
                     open={this.state.thisCardOpen}
                     onClose={this.handleOnClickAProduct}
+                    scroll="paper"
                     aria-labelledby="maxWidth-dialog-title"
                 >
                     <DialogTitle id="maxWidth-dialog-title">{this.props.title}</DialogTitle>
